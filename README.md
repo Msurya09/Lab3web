@@ -41,3 +41,11 @@ Buat file baru dengan nama lab3_tabel.html seperti berikut.
 Maka hasilnya seperti ini 
 
 ![gambar8](Screenshoot/hasil5.png)
+
+Menggabungkan Sel Data
+Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara horizontal).
+![gambar9](Screenshoot/code6.png)
+
+Maka hasilnya seperti ini 
+
+![gambar10](Screenshoot/hasil6.png)
