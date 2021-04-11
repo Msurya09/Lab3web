@@ -33,3 +33,11 @@ Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorder
 Maka hasilnya seperti ini 
 
 ![gambar6](Screenshoot/hasil4.png)
+
+Membuat Tabel
+Buat file baru dengan nama lab3_tabel.html seperti berikut.
+![gambar7](Screenshoot/code5.png)
+
+Maka hasilnya seperti ini 
+
+![gambar8](Screenshoot/hasil5.png)
