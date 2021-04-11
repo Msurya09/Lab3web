@@ -57,3 +57,35 @@ Buat file baru dengan nama lab3_form.html seperti berikut.
 Maka hasilnya seperti ini 
 
 ![gambar12](Screenshoot/hasil7.png)
+
+Menabahkan Style pada Form
+Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
+![gambar13](Screenshoot/code8.png)
+
+Maka hasilnya seperti ini 
+
+![gambar14](Screenshoot/hasil8.png)
+
+Berikut form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+Masukkan code seperti dibawah ini pada body :
+![gambar15](Screenshoot/code9.png)
+
+Maka hasilnya seperti ini 
+
+![gambar16](Screenshoot/hasil9.png)
+
+Lalu masukkan code dibawah ini untuk isi dropdown :
+Masukkan code seperti dibawah ini pada body :
+![gambar17](Screenshoot/code10.png)
+
+Maka hasilnya seperti ini 
+
+![gambar18](Screenshoot/hasil10.png)
+
+Lalu tambahkan CSS untuk dropdownnya :
+![gambar19](Screenshoot/code11.png)
+![gambar20](Screenshoot/code12.png)
+![gambar21](Screenshoot/code13.png)
+
+Maka hasilnya seperti ini 
+![gambar22](Screenshoot/hasil11.png)
