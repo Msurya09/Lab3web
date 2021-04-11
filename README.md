@@ -49,3 +49,11 @@ Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowsp
 Maka hasilnya seperti ini 
 
 ![gambar10](Screenshoot/hasil6.png)
+
+Membuat Form
+Buat file baru dengan nama lab3_form.html seperti berikut.
+![gambar11](Screenshoot/code7.png)
+
+Maka hasilnya seperti ini 
+
+![gambar12](Screenshoot/hasil7.png)
