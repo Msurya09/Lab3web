@@ -10,3 +10,10 @@ Maka hasilnya akan seperti ini
 ![gambar2](Screenshoot/hasil1.png)
 
 
+Membuat Ordered List
+Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
+![gambar3](Screenshoot/code2.png)
+
+Maka hasilnya akan seperti ini
+![gambar4](Screenshoot/hasil2.png)
+
