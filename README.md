@@ -4,6 +4,7 @@ Langkah-langkah Praktikum
 Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
 ![gambar1](Lab3web/Screenshoot/code 1.png)
 
+
 Maka hasilnya akan seperti ini
 ![gambar2] (screenshoot/hasil1.png)
 
