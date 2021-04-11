@@ -8,20 +8,23 @@
 <body>
 <header>
 <h1>Membuat Form</h1>
-<link rel="stylesheet" type="text/css" href="style.css">
 
-<div class="menu">
-    <ul id="navigasi">
-          <li><a href="#">Home</a>
-      <ul>
-       <li><a href="lab3_tabel.html">Membuat tabel</a></li>
-       <li><a href="lab3_list.html">Membuat List</a></li>
-      </ul>
-     </li>
-    </ul>
-    </div>
-
-</header>
+    <nav>
+        <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">Category</a>
+                <ul class="sub1">
+                    <li><a href="">Category 1</a></li>
+                    <li><a href="">Category 2</a></li>
+                    <li><a href="">Category 3</a></li>
+                    <li><a href="">Category 4</a></li>
+                </ul>
+            </li>
+            <li><a href="">Blog</a></li>
+            <li><a href="">Services</a></li>
+            <li><a href="">Contact Us</a></li>
+        </ul>
+    </nav>
 
 <form action="proses.php" method="post">
     <fieldset>
@@ -59,7 +62,6 @@ for="jk_p">Perempuan</label>
 </form>
 
 
-
 <style>
     form p > label {
     display: inline-block;
@@ -73,82 +75,18 @@ for="jk_p">Perempuan</label>
     font-weight: bold;
     padding: 5px 15px;
     }
-    
-    body {
- font-family: verdana;
- font-size: 0.85em;
-}
 
-.menu {
- display: block;
- background-color:#00A6BB;
- height:46px;
-}
 
-.content {
- clear: both;
- padding:5px 0;
- min-height: 200px;
-
+    /*css untuk menu hover dropdown*/
+nav ul li:hover .sub1 {display:block}
+nav ul .sub1 {
+    display:none;
+    position:absolute;
+    left:150px;
+    top:50px;
+    background-color:#d35400;
 }
-
-.footer {
- clear: both;
- margin-top:10px;
- background-color: #eee;
- padding:10px 8px;
-}
-
-#navigasi {
- position:relative;
- line-height:30px;
- margin:0;
- padding:0;
- list-style-type:none;
- list-style-position:outside;
-}
-
-#navigasi a {
- display:block;
- padding:8px 16px;
- background-color:#00A6BB;
- color:#fff;
- text-decoration:none;
-}
-
-#navigasi a:hover {
- background-color:#00BCD4;
- color:#fff;
-}
-
-#navigasi li {
- position:relative;
- float:left;
-}
-
-#navigasi ul {
- position:absolute;
- display:none;
- margin:0;
- padding:0;
- list-style-type:none;
- list-style-position:outside;
-}
-
-#navigasi li ul a{
- width:12em;
- height:auto;
- float:left;
-}
-
-#navigasi li:hover ul{
- display:block;
-}
-
-#navigasi li:hover ul ul{
- display:none;
-}
-    
+.sub1 a:hover { color:#fff}
     </style> 
     
 
