@@ -26,3 +26,10 @@ Maka hasilnya seperti ini
 
 ![gambar6](Screenshoot/hasil3.png)
 
+Membuat Description List
+Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
+![gambar5](Screenshoot/code4.png)
+
+Maka hasilnya seperti ini 
+
+![gambar6](Screenshoot/hasil4.png)
