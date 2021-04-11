@@ -20,8 +20,8 @@ Maka hasilnya akan seperti ini
 
 Membuat Unorderd List
 Kemudian tambakan kode  untuk  membuat  Unordered List,  setelah  deklarasi ordered list  pada section unordered-list, seperti berikut.
-![gambar5](screenshoot/code3.png)
+![gambar5](Screenshoot/code3.png)
 
 Maka hasilnya seperti ini 
-![gambar6](screenshoot/hasil3.png)
+![gambar6](Screenshoot/hasil3.png)
 
