@@ -68,6 +68,7 @@ Maka hasilnya seperti ini
 
 Berikut form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 Masukkan code seperti dibawah ini pada body :
+
 ![gambar15](Screenshoot/code9.png)
 
 Maka hasilnya seperti ini 
@@ -76,6 +77,7 @@ Maka hasilnya seperti ini
 
 Lalu masukkan code dibawah ini untuk isi dropdown :
 Masukkan code seperti dibawah ini pada body :
+
 ![gambar17](Screenshoot/code10.png)
 
 Maka hasilnya seperti ini 
@@ -83,9 +85,11 @@ Maka hasilnya seperti ini
 ![gambar18](Screenshoot/hasil10.png)
 
 Lalu tambahkan CSS untuk dropdownnya :
+
 ![gambar19](Screenshoot/code11.png)
 ![gambar20](Screenshoot/code12.png)
 ![gambar21](Screenshoot/code13.png)
 
 Maka hasilnya seperti ini 
+
 ![gambar22](Screenshoot/hasil11.png)
